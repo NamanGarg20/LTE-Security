@@ -1,0 +1,6 @@
+Key = d3c5d592 327fb11c 4035c668 0af8c6d1
+Count = 398a59b4
+Bearer = 15
+Direction = 1
+Length = 253 bits
+Plaintext = 981ba682 4c1bfb1a b4854720 29b71d80 8ce33e2c c3c0b5fc 1f3de8a6 dc66b1f0

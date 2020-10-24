@@ -1,0 +1,6 @@
+Count-I = 398a59b4
+Bearer = 1a
+Direction = 1
+IK = d3c5d592 327fb11c 4035c668 0af8c6d1
+Length = 64 bits
+Message = 484583d5 afe082ae
