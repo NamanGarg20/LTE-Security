@@ -16,7 +16,7 @@
 #define MAX_LEN 2048
 
 extern int OPENSSL_cleanse(void *ptr, size_t len);
-uint32_t OPENSSL_ia32cap_P[4] = { 0 };
+u_int32_t OPENSSL_ia32cap_P[4] = { 0 };
 
 struct ctr_state {
     unsigned char ivec[16];
